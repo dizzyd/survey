@@ -1,0 +1,11 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "textures": {"torch": "survey:blocks/stake"},
+      "model": "torch"
+    },
+    "variants": {
+      "normal": [{}]
+    }
+  }
+

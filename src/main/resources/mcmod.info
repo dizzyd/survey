@@ -1,0 +1,16 @@
+[
+{
+  "modid": "survey",
+  "name": "Survey",
+  "description": "Immersive tools for measuring land",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/survey",
+  "updateUrl": "",
+  "authorList": ["dizzydizzyd"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
